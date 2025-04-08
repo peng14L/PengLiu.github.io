@@ -15,6 +15,7 @@ My name is Liu Peng, I'm from China ShanDong Prov. I was born in 1995 January. M
 Getting started
 ======
 开始不了一点儿
+慢慢写吧，首版2025年4月9日，以后再慢慢完善吧。
 
 Site-wide configuration
 ------
