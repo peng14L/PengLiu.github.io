@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my personal page(通用寒暄)"
+title: "Welcome to my personal page"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 
 Brief Instruction
 ======
-My name is Liu Peng, I'm from China ShanDong Prov. I was born in 1995 January. My major is applied mathematics, and now I'm a software engeneer. Life is funny. 学术不了一点儿的个人网页。
+My name is Liu Peng, I'm from China ShanDong Prov. I was born in 1995 January. My major is applied mathematics, and now I'm a software engeneer. Life is funny. 好像也没什么可介绍的了。
 
 Getting started
 ======
