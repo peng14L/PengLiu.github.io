@@ -10,12 +10,11 @@ redirect_from:
 
 Brief Instruction
 ======
-My name is Liu Peng, I'm from China ShanDong Prov. I was born in 1995 January. My major is applied mathematics, and now I'm a software engeneer. Life is funny. 好像也没什么可介绍的了。
+My name is Liu Peng, I'm from China ShanDong Province. I was born in 1995 January. My major is applied mathematics, and now I'm a software engineer. Life is funny. 好像也没什么可介绍的了。
 
 Getting started
 ======
-开始不了一点儿
-慢慢写吧，首版2025年4月9日，以后再慢慢完善吧。
+在开始了，慢慢写吧，首版2025年4月9日，以后再慢慢完善吧。师父说还是要有个个人主页，好，那就整一个吧，fork来能有多难呢。
 
 Site-wide configuration
 ------
