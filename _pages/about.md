@@ -10,7 +10,7 @@ redirect_from:
 
 Brief Instruction
 ======
-My name is Liu Peng, I'm from China ShanDong Province. I was born in 1995 January. My major is applied mathematics, and now I'm a software engineer. Life is funny. 好像也没什么可介绍的了。
+My name is Liu Peng, I'm from China ShanDong Province. I was born in 1995 January. My major is applied mathematics, and now I'm a software engineer. Life is funny. 好像也没什么可介绍的了。A little test $\alpha$
 
 Getting started
 ======
